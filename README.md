@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Flamingsides
 - 👀 I’m interested in Computer Science
 - 🌱 I’m currently enrolled in Harvard's CS50x on edX
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on quite literally anything.
 - 📫 How to reach me: LinkedIn: https://www.linkedin.com/in/suhaib-hameed-zuberi/
 
 <!---
