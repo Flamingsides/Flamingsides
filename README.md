@@ -1,10 +1,18 @@
-- 👋 Hi, I’m @Flamingsides
-- 👀 I’m interested in Computer Science
-- 🌱 I’m currently enrolled in Harvard's CS50x on edX
-- 💞️ I’m looking to collaborate on quite literally anything.
-- 📫 How to reach me: LinkedIn: https://www.linkedin.com/in/suhaib-hameed-zuberi/
+# 🔥Flamingsides
 
-<!---
-Flamingsides/Flamingsides is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I’m Suhaib, an aspiring Computer Scientist currently studying at Heriot-Watt University Malaysia. I am incredibly passionate about programming, having experience in several programming languages and concepts such as C, C++, Java, Python, HTML, CSS, JavaScript, SQLite and more.
+
+Alongside my studies, I take on project management roles, whether at school, in extracurricular clubs, or in past work experiences. I focus on keeping a positive growth mindset and making the most out of the opportunities at hand.
+
+Although I still have a long way to go, I’m happy to share what I know and contribute wherever I can.
+
+<a href="https://www.linkedin.com/in/suhaib-hameed-zuberi/">
+    <img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
+<a href="mailto:suhaib.zuberi2@gmail.com">
+    <img src="https://custom-icon-badges.demolab.com/badge/Email-red?style=for-the-badge&logo=mail&logoColor=white">
+</a>
+<a href="https://wa.me/qr/BRCIPFCHIN6IO1">
+    <img src="https://custom-icon-badges.demolab.com/badge/WhatsApp-dark_green?style=for-the-badge&logo=whatsapp&logoColor=white">
+</a>
+<br>
