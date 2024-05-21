@@ -34,7 +34,7 @@ Although I still have a long way to go, I’m happy to share what I know and con
 ## 📊 Stats
 
 ### GitHub Statistics
-![Flamingsides's GitHub stats](https://github-readme-stats.vercel.app/api?username=Flamingsides&show_icons=true&theme=gruvbox)
+![Flamingsides's GitHub stats](https://github-readme-stats.vercel.app/api?username=Flamingsides&show_icons=true&theme=gotham)
 
 ### GitHub Streak Statistics
-![GitHub Streak](https://streak-stats.demolab.com?user=Flamingsides&theme=gruvbox&border_radius=4.5)
+![GitHub Streak](https://streak-stats.demolab.com?user=Flamingsides&theme=gotham&border_radius=4.5)
