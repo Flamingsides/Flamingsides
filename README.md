@@ -30,3 +30,11 @@ Although I still have a long way to go, I’m happy to share what I know and con
 <img align="left" alt="C" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-plain.svg" />
 <img align="left" alt="C++" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-plain.svg" />
 <br>
+
+## 📊 Stats
+
+### GitHub Statistics
+![Flamingsides's GitHub stats](https://github-readme-stats.vercel.app/api?username=Flamingsides&show_icons=true&theme=gruvbox)
+
+### GitHub Streak Statistics
+![GitHub Streak](https://streak-stats.demolab.com?user=Flamingsides&theme=gruvbox&border_radius=4.5)
