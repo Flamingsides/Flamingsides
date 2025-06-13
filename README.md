@@ -1,4 +1,4 @@
-# 🔥Flamingsides
+# 🔥About Me
 
 I’m Suhaib (AKA Flamingsides), an aspiring Computer Scientist currently studying at Heriot-Watt University Malaysia. I am incredibly passionate about programming, having experience in several programming languages and concepts such as C, C++, Java, Python, HTML, CSS, JavaScript, SQLite and more.
 
