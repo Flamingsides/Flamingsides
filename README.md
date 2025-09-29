@@ -42,7 +42,8 @@ Although I still have a long way to go, I’m happy to share what I know and con
 <img align="left" alt="MySQL" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"/>
 <img align="left" alt="Neovim" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/neovim/neovim-original.svg"/>
 <img align="left" alt="Vercel" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vercel/vercel-original.svg"/>
-<br>
+<br />
+<br />
 
 ## 📊 Stats
 
