@@ -1,6 +1,6 @@
 # 🔥About Me
 
-I’m Suhaib (AKA Flamingsides), an aspiring Computer Scientist currently studying at Heriot-Watt University Malaysia. I am incredibly passionate about programming, having experience in several programming languages and frameworks such as C, C++, Java, Python, React, Flask, PHP, HTML, CSS, JavaScript, PostgreSQL, MySQL and more.
+I’m Suhaib (AKA Flamingsides), an aspiring Computer Scientist currently studying at Heriot-Watt University Malaysia. I am incredibly passionate about programming, having experience in several programming languages and frameworks such as C, C++, Java, Python, ReactJS, ThreeJS, Flutter (learning), FastAPI, Flask, PHP, HTML, CSS, JavaScript, PostgreSQL, MySQL (MariaDB) and more.
 
 Alongside my studies, I take on project management roles, whether at school, in extracurricular clubs, or in past work experiences. I focus on keeping a positive growth mindset and making the most out of the opportunities at hand.
 
